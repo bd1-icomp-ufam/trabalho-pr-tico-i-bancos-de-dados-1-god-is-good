@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zixaop7v)
+**Sistema de Banco de Dados de Produtos para Comércio Eletrônico**
+</br>
+**Descrição**
+
+Este projeto consiste em implementar um banco de dados relacional para uma loja de comércio eletrônico utilizando PostgreSQL e Python. O objetivo é armazenar e consultar informações sobre produtos e avaliações de usuários, com base nos dados fornecidos no arquivo "Amazon product co-purchasing network metadata". O sistema também inclui um dashboard para realizar consultas SQL sobre os dados.
+
+O trabalho é dividido em três partes:
+
+**``Documentação do Banco de Dados (tp1_3.1.pdf)``**: Contém o diagrama do banco de dados, dicionário de dados, e as restrições de integridade.
+</br>
+**``Criação e Povoamento do Banco de Dados (tp1_3.2.py)``**: Script Python para criação do esquema do banco de dados e inserção dos dados.
+</br>
+**``Consultas do Dashboard (tp1_3.3.py)``**: Script Python para execução das consultas solicitadas no dashboard.
