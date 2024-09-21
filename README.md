@@ -1,3 +1,7 @@
+**Alunos**
+Marcelo Ferreira Leda Filho - 21953111
+Matheus Mota de Sousa - 21555106
+
 **Sistema de Banco de Dados de Produtos para Comércio Eletrônico**
 </br>
 **Descrição**
