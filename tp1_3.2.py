@@ -15,7 +15,7 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 db_config = {
     'dbname': 'main',
     'user': 'postgres',
-    'password': '123',
+    'password': 'postgres',
     'host': 'localhost',
     'port': '5432'
 }
